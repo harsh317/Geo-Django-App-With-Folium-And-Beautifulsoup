@@ -6,6 +6,7 @@
 - cd Geo-Django-App-With-Folium-And-Beautifulsoup.git
 - cd distace
 - python3 manage.py runserver
+- I have rounded the distance.So, distance not exact as scraped .Its rounded
 ## tested
 - Windows10[cmd]
 - Linux
